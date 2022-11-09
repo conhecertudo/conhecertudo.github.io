@@ -1,4 +1,4 @@
-# <p align=center > Conhecer Tudo <img src='./assets/images/ct-icon.png'></img> </p>
+# <p align=center > Conhecer Tudo     <img src='./assets/images/ct-icon.png'></img> </p>
 
 ### <p align=center > Conhecimento sobre tudo e para todes.
 
