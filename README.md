@@ -74,3 +74,11 @@ npm run dev
 <br />
 
 🔥 Abra o seu browser no endereço [http://localhost:3000](http://localhost:3000) para ver o resultado.
+
+<br />
+
+## :recycle: Como contribuir
+
+- Crie uma branch nova: `git checkout -b my-feature`
+- Commit: `git commit -m 'feat: My new feature'`
+- Push para a sua branch: `git push origin my-feature`
