@@ -13,11 +13,29 @@ Convidamos outros desenvolvedores alinhados com os ideais de esquerda a contribu
 
 ## <p align=left > 💻 Web app
 
+O projeto segue o design do [Figma](https://www.figma.com/file/2WMjxb6tI4qu5sT744zvwv/Site?node-id=37%3A280&t=xPzHRtmZGpOyDUnn-0) em andamento.
+
 Stack utilizada:
 
 - Next.js (_React_)
 - TypeScript
 - Tailwind
+
+<br />
+
+## TODOS
+
+- [ ] Extrair icones do Figma para pastas `./public/icons/`
+- [ ] Criar componente `Button` - `Primary` e `Secondary`
+- [ ] Criar componente `Spinner`
+- [ ] Criar componente `ListItem`
+- [ ] Criar componente `Card`
+- [ ] Criar um `mockData.json` com estrutura a ser implementada no headless CMS
+- [ ] Funcionalidade `Hambuger Menu`
+- [ ] Funcionalidade `Horizontal Image Slider` utilizando componente `Card[]`
+- [ ] Funcionalidade `Infinite Scroll`
+
+<br />
 
 ### <p align=left > Para rodar o projeto siga as instruções abaixo.
 
