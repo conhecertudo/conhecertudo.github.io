@@ -11,7 +11,7 @@ Convidamos outros desenvolvedores alinhados com os ideais de esquerda a contribu
 <br />
 <br />
 
-## <p align=center > Web app
+## <p align=left > 💻 Web app
 
 Stack utilizada:
 
@@ -57,4 +57,4 @@ npm run dev
 
 <br />
 
-Abra o seu browser no endereço [http://localhost:3000](http://localhost:3000) para ver o resultado.
+🔥 Abra o seu browser no endereço [http://localhost:3000](http://localhost:3000) para ver o resultado.
