@@ -19,8 +19,6 @@ Stack utilizada:
 - TypeScript
 - Tailwind
 
-<br />
-
 ### <p align=left > Para rodar o projeto siga as instruções abaixo.
 
 <br />
