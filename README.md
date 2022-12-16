@@ -23,20 +23,6 @@ Stack utilizada:
 
 <br />
 
-## TODOS
-
-- [ ] Extrair icones do Figma para pastas `./public/icons/`
-- [ ] Criar componente `Button` - `Primary` e `Secondary`
-- [ ] Criar componente `Spinner`
-- [ ] Criar componente `ListItem`
-- [ ] Criar componente `Card`
-- [ ] Criar um `mockData.json` com estrutura a ser implementada no headless CMS
-- [ ] Funcionalidade `Hambuger Menu`
-- [ ] Funcionalidade `Horizontal Image Slider` utilizando componente `Card[]`
-- [ ] Funcionalidade `Infinite Scroll`
-
-<br />
-
 ### <p align=left > Para rodar o projeto siga as instruções abaixo.
 
 <br />
