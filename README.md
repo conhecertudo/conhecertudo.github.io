@@ -1,4 +1,4 @@
-# <p align=center > <img align=center src='./assets/images/ct-icon.png'></img> Conhecer Tudo </p>
+# <p align=center > <img align=center src='./.github/assets/ct-icon.png'></img> Conhecer Tudo </p>
 
 ### <p align=center > Conhecimento sobre tudo e para todes.
 
@@ -6,4 +6,65 @@ Mediante a situação política do Brasil e do mundo, urge a necessidade de poli
 
 Convidamos outros desenvolvedores alinhados com os ideais de esquerda a contribuir com o Projeto e auxiliar na luta contra a hegemonia direitista no espaço virtual.
 
->*Ensinar não é transferir conhecimento, mas criar as possibilidades  para a sua própria produção ou a sua construção. - Paulo Freire*
+> _Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção. - Paulo Freire_
+
+<br />
+<br />
+
+## <p align=left > 💻 Web app
+
+O projeto segue o design do [Figma](https://www.figma.com/file/2WMjxb6tI4qu5sT744zvwv/Site?node-id=37%3A280&t=xPzHRtmZGpOyDUnn-0) em andamento.
+
+Stack utilizada:
+
+- Next.js (_React_)
+- TypeScript
+- Tailwind
+
+<br />
+
+### <p align=left > Para rodar o projeto siga as instruções abaixo.
+
+<br />
+
+Clone o repositorio
+
+```bash
+git clone https://github.com/conhecertudo/conhecertudo.github.io.git
+```
+
+<br />
+
+Acesse a pasta clonada
+
+```bash
+cd conhecertudo.github.io
+```
+
+<br />
+
+Instale as dependências
+
+```bash
+npm i
+```
+
+<br />
+
+Rode o projeto
+
+```bash
+npm run dev
+```
+
+<br />
+
+🔥 Abra o seu browser no endereço [http://localhost:3000](http://localhost:3000) para ver o resultado.
+
+<br />
+
+## :recycle: Como contribuir
+
+- Crie uma branch nova: `git checkout -b my-feature`
+- Commit: `git commit -m 'feat: My new feature'`
+- Push para a sua branch: `git push origin my-feature`
